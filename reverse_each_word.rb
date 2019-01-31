@@ -6,3 +6,4 @@ def reverse_each_word(phrase)
   end
 phrase= "Hola mundo cruel"
 reverse_each_word(phrase)
+puts phrase
